@@ -16,7 +16,7 @@ This solution is selected as it builds full stack setting such as ami, dynamo DB
 
 Architecture Reference 
 
-[alt text](https://ebspackage.s3.eu-west-1.amazonaws.com/Architecture.PNG)
+<img width="590" alt="Architecture" src="https://user-images.githubusercontent.com/59480781/198051072-1a19eb63-95d0-439c-9f78-9a947af50916.PNG">
 
 How to Run Code
 
