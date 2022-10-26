@@ -5,6 +5,7 @@ ServiceX’s potential / future customer base must remain confidential. CGHM hav
 to minimize risk through misconfiguration.
 
 Create an Internet-facing name and email registration service.
+
 ○ As this is currently at a ‘proof-of-concept’ stage there is no expectation of accuracy or privacy: users can input and retrieve any entry.
 ○ However an authentication mechanism (eg. sign-up form / DB) must be implemented that later be extended or substituted with minimal impact on the overall solution
 
