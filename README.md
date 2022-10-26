@@ -43,6 +43,7 @@ In any case the apply fails please make sure you have a role called aws-elasticb
 3. Entry in DB
 ![image](https://user-images.githubusercontent.com/59480781/198052958-83daf7f8-49b3-4372-b0ec-61d992bc24a0.png)
 
+** Consistent deployments can be achieved by just changing the source code 
 *Production Readiness
 
 1. Route 53 Entry for client Domain
@@ -55,4 +56,5 @@ In any case the apply fails please make sure you have a role called aws-elasticb
 8. Add key pair configuration
 9. Enable Managed Updates
 10. We can use Blue Green approach for deployments
+11. Add Waf layer to serve request
 
