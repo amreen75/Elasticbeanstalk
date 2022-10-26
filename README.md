@@ -48,4 +48,10 @@ In any case the apply fails please make sure you have a role called aws-elasticb
 2. SSL certs can be added
 3. Separate DB can be created that is not linked to EBS. or we can retain snapshots in EBS
 4. Scaling conditions can be added
+5. Add relevant tags
+6. Source code must be secured
+7. Automate deployment via Jenkins
+8. Add key pair configuration
+9. Enable Managed Updates
+10. We can use Blue Green approach for deployments
 
