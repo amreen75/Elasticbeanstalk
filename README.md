@@ -10,9 +10,9 @@ Create an Internet-facing name and email registration service.
 
 *Solution 
 
-To use Elastic Beanstalk to create a web application that serves as a sign up page, for potential customers of CGHM storing the required data in Dynamo DB for further processing .
+To use AWS Elastic Beanstalk to create a web application that serves a sign up page powered by Dynamo DB, Dynamo DB stores info reagrding potential customers of CGHM that are interested to know new launches.
 
-This solution is selected as it builds full stack setting such as ami, dynamo DB, elb, SNS and autoscaling on its own and  has full potential to be scaled as a production application without major shifts.
+This solution is selected as it builds full stack settings starting from ami, launch configurations, autoscaling , dynamo DB, elb, SNS etc on its own and  has full potential to be scaled as a production application without major shifts.
 
 *Architecture Reference 
 
